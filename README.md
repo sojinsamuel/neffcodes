@@ -12,7 +12,7 @@ I'm a software engineer with 10 years of experience across diverse areas of prin
 
 - 📫 How to reach me **contact@jamesneff.com**
 
-- ⚡ Fun fact: **I'm fascinated with bees**
+- ⚡ Fun fact: **I find bees fascinating**
 
 ---
 
