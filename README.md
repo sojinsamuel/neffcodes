@@ -6,11 +6,11 @@ I'm a software engineer with 10 years of experience across diverse areas of prin
 
 - 🔭 I’m currently working on [Shower Thoughts](https://github.com/NeffCodes/shower_thoughts)
 
-- 📚 I’m currently learning **Node.js**
+- 📚 I’m currently learning **Authentication the with MERN stack**
 
 - 🖌️ All of my projects are available at [https://jamesneff.com](https://jamesneff.com)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, or Graphic Design**
+- 💬 Ask me about **HTML, CSS, Javascript, React, MERN Stack, or Graphic Design**
 
 - 📫 How to reach me **contact@jamesneff.com**
 
@@ -50,6 +50,80 @@ I'm a software engineer with 10 years of experience across diverse areas of prin
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 </p>
+
+---
+<table width="100%">
+  <tbody>    
+    <tr width="100%">
+      <td width="50%" v-align="top">
+        <h3 align="center">Glimpse into the Universe</h3>
+        <br />
+        <a href="https://glimpse-universe.netlify.app/" target="_blank">
+          <img src="./images/glimpse.gif" alt="Glimpse into the Universe" >
+        </a>
+        <section align="center">
+          <a href="https://github.com/NeffCodes/universe" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+          </a>
+          <a href="https://glimpse-universe.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;">
+          </a>
+        </section>
+        <p>A responsive web app which allows the user to infinitly scroll through NASA's Astronomy Photo of the Day archive. Supports both videos and photos.</p>
+        <br />
+        <p><strong>HTML5 | CSS3 | Javascript</strong></p>
+      </td>
+      <td width="50%" v-align="top">
+        <h3 align="center">Shower Thoughts</h3>
+        <br />
+        <a href="http://thoughts-collection.herokuapp.com/" target="_blank">
+          <img src="./images/shower.gif" alt="Shower Thoughts">
+        </a>
+        <section align="center">
+          <a href="https://github.com/NeffCodes/shower_thoughts" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+          </a>
+          <a href="http://thoughts-collection.herokuapp.com/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;">
+          </a>
+        </section>
+        <p>A full-stack web app where users can log in to their profile, find their list of thoughts, add new thoughts, and edit/delete thoughts with a simple user interface.</p>
+        <br />
+        <p><strong>MongoDB | Express | Handlebars | Node.js | Google OAuth</strong></p>
+      </td>  
+    </tr>
+    <tr width="100%">
+      <td width="50%" v-align="top">
+        <h3 align="center">jamesneff.com</h3>
+        <br />
+        <a href="https://jamesneff.com" target="_blank">
+          <img src="https://github.com/NeffCodes/Portfolio-v2.0/blob/main/public/assets/readme.png?raw=true" alt="jamesneff.com">
+        </a>
+        <section align="center">
+          <a href="https://github.com/NeffCodes/Portfolio-v2.0" target="_blank"><img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
+          <a href="https://jamesneff.com" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;"></a>
+        </section>
+        <p>Personal portfolio site including links to my projects as well as my technical skills and ways to get in contact with me.</p>
+        <br />
+        <p><strong>Figma | Next.js | Framer Motion</strong></p>
+      </td>
+      <td width="50%" v-align="top">
+        <h3 align="center">Andriana's Pizza Toppings</h3>
+        <br />
+        <a href="https://ultimate-pizza-toppings.herokuapp.com/" target="_blank">
+          <img src="https://github.com/NeffCodes/pizza-crud/raw/main/public/images/readme.png" alt="Screenshot of Andriana's Pizza Toppings">
+        </a>
+        <section align="center">
+          <a href="https://github.com/NeffCodes/pizza-crud" target="_blank"><img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
+          <a href="https://ultimate-pizza-toppings.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;"></a>
+        </section>
+        <p>A simple full-stack CRUD app to see what toppings truly belong on a pizza. Users are able to vote on, change their vote, and add what toppings they like.</p>
+        <br />
+        <p><strong>HTML5 | CSS3 | Express | MongoDB | EJS | Node.js</strong></p>
+      </td>
+      </tr>
+  </tbody>
+</table>
 
 ---
 
