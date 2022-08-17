@@ -6,7 +6,7 @@ I'm a software engineer with 10 years of experience across diverse areas of prin
 
 - 🔭 I’m currently working on [Shower Thoughts](https://github.com/NeffCodes/shower_thoughts)
 
-- 📚 I’m currently learning **Authentication the with MERN stack**
+- 📚 I’m currently learning **Authentication with the MERN stack**
 
 - 🖌️ All of my projects are available at [https://jamesneff.com](https://jamesneff.com)
 
