@@ -69,7 +69,7 @@ I'm a software engineer with 10 years of experience across diverse areas of prin
             <img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;">
           </a>
         </section>
-        <p>A responsive web app which allows the user to infinitly scroll through NASA's Astronomy Photo of the Day archive. Supports both videos and photos.</p>
+        <p>A responsive web app which allows the user to infinitely scroll through NASA's Astronomy Photo of the Day archive. Supports both videos and photos.</p>
         <br />
         <p><strong>HTML5 | CSS3 | Javascript</strong></p>
       </td>
